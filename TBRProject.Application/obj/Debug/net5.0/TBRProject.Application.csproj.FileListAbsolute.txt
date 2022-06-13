@@ -1,0 +1,12 @@
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\bin\Debug\net5.0\TBRProject.Application.deps.json
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\bin\Debug\net5.0\TBRProject.Application.dll
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\bin\Debug\net5.0\TBRProject.Application.pdb
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.csproj.AssemblyReference.cache
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.AssemblyInfoInputs.cache
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.AssemblyInfo.cs
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.dll
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\refint\TBRProject.Application.dll
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\TBRProject.Application.pdb
+C:\Users\anja.zubac\source\repos\TBRProject\TBRProject.Application\obj\Debug\net5.0\ref\TBRProject.Application.dll
